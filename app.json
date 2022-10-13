@@ -6,7 +6,7 @@
         "shadow",
         "bot"
     ],
-    "repository": "https://github.com/SPARK-SHADOW/Wa-Bot-Xd",
+    "repository": "https://github.com/Malik009988/Wa-Bot-Xd",
     "stack": "container",
     "env": {
         "PREFIX": {
